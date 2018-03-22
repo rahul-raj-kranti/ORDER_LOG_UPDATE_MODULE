@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+<modules>
+<OrderDetails_OrderDetailUpdate>
+<active>true</active>
+<codePool>local</codePool>
+</OrderDetails_OrderDetailUpdate>
+</modules>
+</config>
